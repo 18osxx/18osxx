@@ -18,9 +18,3 @@ I'm Thomas, people call me Tommy, a self learnt programmer and game designer. I 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=18osxx.18osxx)
-<a href="https://discord.com/users/971112119724548186" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/971112119724548186"  />
-  </a>
-</div>
