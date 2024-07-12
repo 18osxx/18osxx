@@ -19,3 +19,5 @@ I'm Thomas, people call me Tommy, a self learnt programmer and game designer. I 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+https://github-readme-stats.vercel.app/api?username=18osxx&count_private=true&show_icons=true&include_all_commits=true
