@@ -3,7 +3,7 @@
 I'm Thomas, people call me Tommy, a self learnt programmer and game designer. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-barden-238123296/)](https://www.linkedin.com/in/thomas-barden-238123296/)
-[![Gmail Badge](https://img.shields.io/badge/-tom@thomascodes.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tom@thomascodes.xyz)](mailto:tom@thomascodes.xyz) (**Coming soon.**)
+[![Gmail Badge](https://img.shields.io/badge/-tom@thomascodes.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tom@thomascodes.xyz)](mailto:tom@thomascodes.xyz)
 
 ## ⚡ Technologies
 
